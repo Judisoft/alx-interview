@@ -3,8 +3,9 @@
 def pascal_triangle(n):
     
     """
-    function ns a list of lists of integers representing the Pasial triangle 
+    function that displays a list of integers representing the Pasial triangle 
     :n: an integer
+    :return: a list if integers
 
     """
     pascal_list = []
